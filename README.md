@@ -12,8 +12,7 @@ To add to PYTHONPATH on a bash system add the following to the ~/.bashrc file
 ```console
 export PYTHONPATH="${PYTHONPATH}:<path to RED root dir>"
 ```
-#spout
-# out
+### out
 
 ### Dependencies
 Standard python dependencies are required: `numpy`, `scipy`, `matplotlib`.  `TensorFlow` is required). Instructions for installing 'TensorFlow' can be found here:
